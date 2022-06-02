@@ -1,5 +1,5 @@
 {
-	"name": "url-exist-sync",
+	"name": "url-exist-sync-browserified",
 	"version": "2.0.0",
 	"description": "Synchronously check if a URL exists.",
 	"repository": "https://github.com/Richienb/url-exist-sync.git",
@@ -27,12 +27,14 @@
 		"validation"
 	],
 	"dependencies": {
+		"browser-resolve": "^2.0.0",
 		"is-url-superb": "^6.0.0",
 		"retus": "^1.1.2"
 	},
 	"devDependencies": {
 		"ava": "^3.15.0",
 		"eslint-config-richienb": "^0.6.2",
+		"esmify": "^2.1.1",
 		"tsd": "^0.17.0",
 		"xo": "^0.41.0"
 	},
