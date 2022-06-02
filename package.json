@@ -6,8 +6,9 @@
 	"author": "Richie Bendall <richiebendall@gmail.com>",
 	"license": "MIT",
 	"type": "module",
-	"exports": "./index.js",
+	"exports": "./lib/browserified.js",
 	"files": [
+		"lib/browserified.js",
 		"index.js",
 		"index.d.ts"
 	],
