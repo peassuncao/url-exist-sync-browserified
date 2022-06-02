@@ -1,6 +1,6 @@
 {
 	"name": "url-exist-sync-browserified",
-	"version": "2.0.1",
+	"version": "2.0.2",
 	"description": "Synchronously check if a URL exists.",
 	"repository": "https://github.com/Richienb/url-exist-sync.git",
 	"author": "Richie Bendall <richiebendall@gmail.com>",
